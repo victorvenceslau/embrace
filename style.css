@@ -1,0 +1,144 @@
+body{
+    background-color: #F6F4F1;
+    color: #F6F4F1;
+    font-family: poppinsmedium;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title{
+flex-direction: column;
+line-height: 10px;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+a{
+    color: #6D3F1E;
+}
+
+a:hover{
+    color: #06BF00;
+    transition: 0.3s all;
+}
+
+#cadastre-se-btn{
+border: 2px solid #311D14;
+padding: 10px;
+border-radius: 15px;
+}
+
+#cadastre-se-btn:hover{
+background-color: #311D14;
+color: #F6F4F1;
+}
+
+#iniciar{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+h2{
+    font-size: 56px;
+    line-height: 10px;
+    font-family: poppinsmedium;
+}
+
+span{
+    color: #311D14;
+}
+
+p{
+    line-height: 20px;
+    max-width: 500px;
+    color: #6D3F1E;
+    font-family: poppinssemibold;
+}
+
+h3{
+    font-size: 46px;
+    line-height: 50px;
+    font-family: poppinsmedium;
+    text-align: center;
+}
+
+p1{
+    line-height: 20px;
+    max-width: 500px;
+    color: #6D3F1E;
+    font-family: poppinssemibold;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente os itens (opcional) */
+  }
+
+#acolhermargens{
+    border: 2px solid #311D14;
+    padding: 5px;
+    border-radius: 15px;
+    margin-right: 20px;
+    }
+
+h4{
+    font-size: 26px;
+    line-height: 30px;
+    font-family: poppinsmedium;
+    align-items: center;
+    margin-right: 20px;
+}
+
+p2{
+    line-height: 20px;
+    max-width: 500px;
+    color: #6D3F1E;
+    font-family: poppinssemibold;
+}
+
+#instagramacolher{
+    margin-right: 20px;
+}
+
+#candidate-se-btn{
+    border: 2px solid #311D14;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#candidate-se-btn:hover{
+    background-color: #311D14;
+    color: #F6F4F1;
+}
+
+
+h5{
+    font-size: 56px;
+    line-height: 10px;
+    font-family: poppinsmedium;
+    margin-right: 20px;
+    color: #311D14;
+}
+
+#ajuda{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+#creditoslogo{
+    margin-right: 20px;
+}
